@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sean Hank
 
-### System Engineer
+### System Generalist
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=SeanHank&theme=onestar&no-bg=true&no-frame=true&rank=-?" /></a> </p>
 
