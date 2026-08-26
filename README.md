@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sean Hank
 
-### Full Stack Developer
+### System Engineer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=SeanHank&theme=onestar&no-bg=true&no-frame=true&rank=-?" /></a> </p>
 
