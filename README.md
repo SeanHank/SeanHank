@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/Xiao3631Han" target="blank"><img src="https://img.shields.io/twitter/follow/Xiao3631Han?logo=twitter&style=for-the-badge" alt="Xiao3631Han" /></a> </p>
 
-- 🔭 I'm currently working on **an another amazing project.** _shhh...let's not leak our hard work._
+- 🔭 I'm currently working on **HelixLang** 
 
 - 🌱 I'm currently learning **everything.**
 
